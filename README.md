@@ -21,15 +21,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 <div align="center">
-  <video src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/a7e9e958-742a-4b28-8002-534642bbe249" />
+  <video src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/a7e9e958-742a-4b28-8002-534642bbe249">
 </div>
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Site](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/RozangelaPeixoto/qrcode_component/)
+- Live Site URL: [Site](https://rozangelapeixoto.github.io/qrcode_component/)
 
 ## My process
+It seems like a super simple project, but when I stopped to read an feedback from the same project that someone else had posted, I realized that although I thought I had delivered what the design asked for, there were several issues that I could improve and this taught me even more about semantics, flexbox, height and width of elements, margin and how to use them all in favor of responsiveness.
 
 ### Built with
 
