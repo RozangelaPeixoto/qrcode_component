@@ -45,5 +45,8 @@ body{
   }
 .attribution a {
     color: #3e52a3;
+}
+.attribution a:hover {
+    color: #192b74;
     text-decoration: none;
-  }
+}
