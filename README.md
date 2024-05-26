@@ -42,7 +42,10 @@ It seems like a super simple project, but when I stopped to read an feedback fro
 
 ### Accessibility and others
 
+Using the Google Lighthouse I made some changes to my code to improve my scores. Here's the result:
 
+
+My accessibility score isn't good because the colors don't have a sufficient contrast ratio.
 
 ### Continued development
 
