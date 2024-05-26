@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 <div align="center">
-  <video src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/a7e9e958-742a-4b28-8002-534642bbe249">
+  <video src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/0588d6c6-04c4-4b93-b795-a99e929a2876">
 </div>
 
 ### Links
 
 - Solution URL: [Github](https://github.com/RozangelaPeixoto/qrcode_component/)
-- Live Site URL: [Site](https://rozangelapeixoto.github.io/qrcode_component/)
+- Live Site URL: [Site](https://qrcode-component-gamma.vercel.app/)
 
 ## My process
 
@@ -43,13 +43,18 @@ It seems like a super simple project, but when I stopped to read an feedback fro
 ### Accessibility and others
 
 Using the Google Lighthouse I made some changes to my code to improve my scores. Here's the result:
-
+<p align="center">
+  <img width="589" height="193" alt="Googlelighthouse scores" src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/27ead33c-1523-4cdf-918c-3d0d8c90ae3d">
+</p>
 
 My accessibility score isn't good because the colors don't have a sufficient contrast ratio.
+<p align="center">
+  <img width="597" height="390" alt="Accessibility score" src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/c9a5555c-272f-4da8-af6c-c81b3c963905">
+</p>
 
 ### Continued development
 
-In the future I want to improve my skills in the topics below: 
+In the future I want to improve my skills in this topics: 
 - Responsivity (Flexbox and Grid)
 - Accessibility 
 - SASS
