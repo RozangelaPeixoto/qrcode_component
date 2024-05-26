@@ -20,6 +20,7 @@ body{
 .qrcode__image{
     border-radius: 10px;
     max-width: 100%;
+    height: auto;
 }
 .qrcode__title{
     color: #1F314F;

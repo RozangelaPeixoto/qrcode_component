@@ -15,8 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -30,7 +28,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Site](https://rozangelapeixoto.github.io/qrcode_component/)
 
 ## My process
-It seems like a super simple project, but when I stopped to read an feedback from the same project that someone else had posted, I realized that although I thought I had delivered what the design asked for, there were several issues that I could improve and this taught me even more about semantics, flexbox, height and width of elements, margin and how to use them all in favor of responsiveness.
 
 ### Built with
 
@@ -40,7 +37,7 @@ It seems like a super simple project, but when I stopped to read an feedback fro
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+It seems like a super simple project, but when I stopped to read an feedback from the same project that someone else had posted I realized that although I thought I had delivered what the design asked for, there were several issues that I could improve and this taught me even more about semantics, flexbox, height and width of elements, margin and how to use them all in favor of responsiveness. And for the first time I searched about acessivity and discover Google Lighthouse, a tool that has its own panel in Chrome DevTools, it was incredible how it helped me, because it not only points out the problem, but explains how you can solve it.
 
 To see how you can add code snippets, see below:
 
@@ -52,15 +49,6 @@ To see how you can add code snippets, see below:
   color: papayawhip;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -70,21 +58,16 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Resource 1](https://stackoverflow.com/questions/31000885/align-an-element-to-bottom-with-flexbox) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Question Stack Overflow](https://stackoverflow.com/questions/31000885/align-an-element-to-bottom-with-flexbox) - This helped me position the elements without using flexbox properties as it wasn't working the way I want.
+- [Google Lighthouse](https://developer.chrome.com/docs/lighthouse) - How I only met this tool now!!! And how this is on my browser without I knowing its potential.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@RozangelaPeixoto](https://www.frontendmentor.io/profile/RozangelaPeixoto)
+- Instagram - [@dev_roxmelo](https://www.instagram.com/dev_roxmelo/)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I want to thank two people:
+Jessica Chan, an youtuber that taught me several tips about the workflow to build a project.
+Grace (@grace-snow), an amazing person who always helps people on frontend mentor, it was your feedback that I read.
