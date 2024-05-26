@@ -43,14 +43,13 @@ It seems like a super simple project, but when I stopped to read an feedback fro
 ### Accessibility and others
 
 Using the Google Lighthouse I made some changes to my code to improve my scores. Here's the result:
-<p align="center">
-  <img width="589" height="193" alt="Googlelighthouse scores" src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/27ead33c-1523-4cdf-918c-3d0d8c90ae3d">
-</p>
+<div align="center">
+  <video src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/1e6d5dbf-364f-4ec8-84ce-e1872adf38a1">
+</div>
 
-My accessibility score isn't good because the colors don't have a sufficient contrast ratio.
-<p align="center">
-  <img width="597" height="390" alt="Accessibility score" src="https://github.com/RozangelaPeixoto/qrcode_component/assets/140510936/c9a5555c-272f-4da8-af6c-c81b3c963905">
-</p>
+Things that I change:
+- [Issue] Links must be distinguishable without relying on color [Solution] I styled links with an underline.
+- [Issue] Background and foreground colors do not have a sufficient contrast ratio. [Solution] I change the gray text to a darker color.
 
 ### Continued development
 
