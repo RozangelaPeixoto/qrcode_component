@@ -71,5 +71,5 @@ In the future I want to improve my skills in this topics:
 ## Acknowledgments
 
 I want to thank two people:
-Jessica Chan, an youtuber that taught me several tips about the workflow to build a project.
-Grace (@grace-snow), an amazing person who always helps people on frontend mentor, it was your feedback that I read.
+- Jessica Chan, an youtuber that taught me several tips about the workflow to build a project.
+- Grace (@grace-snow), an amazing person who always helps people on frontend mentor, it was your feedback that I read.
